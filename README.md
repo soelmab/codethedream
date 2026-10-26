@@ -1,6 +1,6 @@
 # codethedream
 Pre-work application
-# Countries Explorer 🌍
+# Countries Explorer 
 
 ## Overview
 

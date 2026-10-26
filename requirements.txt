@@ -1,1 +1,5 @@
+# Dependencies for the Countries CLI project.
+# Uses the countries.dev API: https://countries.dev/countries
+# API documentation: https://countries.dev/docs
 
+requests

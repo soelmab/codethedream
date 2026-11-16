@@ -79,7 +79,6 @@ Country name (or 'quit'): quit
 Goodbye!
 ```
 
-*Note: The displayed country information is an illustrative example. Actual values come from the live API.*
 
 ## Error Handling
 
@@ -90,7 +89,7 @@ The program includes error handling to prevent unexpected crashes.
 - **Invalid JSON:** Displays an error if the returned data cannot be read.
 - **Empty input:** Asks the user to enter a country name.
 - **No matching results:** Informs the user when no countries match the search.
-- **Multiple matches:** Displays matching country names and asks for a more specific search.
+
 
 ## Project Structure
 
